@@ -1,5 +1,5 @@
 # Acerca de mí:
-![FOTO](img/img2.jpg)
+![FOTO](startbootstrap-bare-master/img/img2.jpg)
 - Nombre: Icela Elena Zúñiga Jiménez 
 - Correro: elenns.00298@gmail.com
 - Github: icelazuji
