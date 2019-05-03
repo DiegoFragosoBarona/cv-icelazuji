@@ -1,18 +1,30 @@
 # Acerca de mí:
-- Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+![FOTO](img2.jpg)
+- Nombre: Icela Elena Zúñiga Jiménez 
+- Correro: elenns.00298@gmail.com
+- Github: icelazuji
 
 # Formación Académica
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Licenciatura en Informática (6° semestre) en la Facultad de Contaduría y Administración de  la Universidad Nacional Autónoma de México.
+
+Escuela Nacional Preparatoria No.9 “Pedro de Alba” (2013-2016).
+
+Promedio actual 9.26.
+
 # Experiencia Profesional
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Aspen Labs: Durante el mes de julio hasta agosto del 2017 participé en “Aprendiendo para la Vida” programa para becarios  que pertenece a esta empresa, en donde estuve asignada en el área de sistemas desempeñando labores auxiliares.
+
+Aspen Labs: Durante el mes de julio hasta agosto del 2018 participé, de nuevo, en “Aprendiendo para la Vida” programa para becarios, donde estuve auxiliando al área de cadena de suministros(supply chain).
+
 # Idiomas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+INGLÉS:  12 niveles (de básico a avanzado) en el CENLEX del Instituto
+Politécnico Nacional.
+
 # Habilidades Técnicas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+➣ Manejo de paquería Office (Intermedio)
+➣ Manejo de PostgreSQL (Intermedio)
+➣ Java
